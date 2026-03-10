@@ -1,0 +1,15 @@
+{
+  "name": "manjunath/wp-performance-optimizer",
+  "description": "Advanced WordPress performance optimization plugin",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Manjunath",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
